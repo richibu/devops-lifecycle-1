@@ -14,14 +14,17 @@ share responsibility for the entire product lifecycle.Automation
 (Continuous Integration/Continuous Deployment - CI/CD):
 
 Uses automation to reduce manual, error-prone tasks (like testing and deployment) 
-to speed up delivery.Lean (Flow & Waste Reduction): Applies lean principles to minimize bottlenecks, reduce unnecessary work (waste), 
+to speed up delivery.Lean (Flow & Waste Reduction): 
+
+Applies lean principles to minimize bottlenecks, reduce unnecessary work (waste), 
 and focus on efficiency.Measurement (Monitoring & Data-Driven Decisions): Uses metrics to track performance and gain insights into system health.Sharing
 (Knowledge & Transparency): Promotes open communication and sharing knowledge, experiences, and tools across teams.Key DevOps Concepts for GitHubCI/CD Pipeline:
 Automating building, testing, and deploying code changes securely.Infrastructure as Code (IaC): Managing infrastructure via configuration files and version control,
 rather than manual setups.Monitoring and Logging: 
-
 Actively gathering data to improve application performance.DevSecOps: Integrating security checks directly into the DevOps workflow.
+
 Here are the stages of the Software Development Life Cycle (SDLC) explained:Planning: 
+
 This foundational stage defines the project scope, goals, resources, and timeline, answering "what" is being built and why. 
 It involves risk assessment, feasibility studies, and establishing a roadmap for development.Development (Coding): 
 Developers translate design documents into functional software by writing code in appropriate programming languages. 
