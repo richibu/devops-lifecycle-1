@@ -2,8 +2,12 @@
 Description of Devops concepts, core principles and Life cycle stages.
 DevOps is a software development methodology and cultural philosophy that combines software development (Dev) and IT operations (Ops) 
 to shorten the systems development life cycle. 
+
 It breaks down traditional silos to deliver applications and services at high velocity and high quality.
-Core Principles of DevOps (CALMS Framework)The CALMS framework is the industry standard for summarizing the core pillars of DevOps:
+
+Core Principles of DevOps (CALMS Framework)
+
+The CALMS framework is the industry standard for summarizing the core pillars of DevOps:
 Culture (Collaboration & Shared Responsibility): Shifts from siloed teams to a collaborative mindset where developers and operations 
 share responsibility for the entire product lifecycle.Automation 
 (Continuous Integration/Continuous Deployment - CI/CD): Uses automation to reduce manual, error-prone tasks (like testing and deployment) 
